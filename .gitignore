@@ -1,0 +1,15 @@
+env
+venv
+.venv
+.vscode
+__pycache__
+public
+.DS_Store
+*.aux
+*.bbl
+*.blg
+*.log
+*.syntex.gz
+*.synctex.gz
+*.toc
+*.out
